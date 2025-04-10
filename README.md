@@ -1,6 +1,6 @@
  🤖 BhaiBot - Funny Hindi-English Chatbot
 
-BhaiBot is a hilarious, mood-reactive, and bilingual chatbot built with ❤️ using Python!  
+BhaiBot is a hilarious, mood-reactive, and bilingual chatbot built with using Python!  
 It speaks both **Hindi & English**, understands user tone, and replies in a fun, sarcastic, or emotional way — just like your ultimate desi dost 😎
 
 ---
