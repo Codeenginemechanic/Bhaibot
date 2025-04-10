@@ -66,5 +66,5 @@ Feel free to use, modify, and share with credit. Bas copy-paste na kar bhai 😜
 
  🧑‍💻 Developer
 
-Made with ❤️ by [YourNameHere]  
+Made with by [Cem Corp]  
 BhaiBot – Because life’s better with a funny dost in Python 😎
