@@ -16,7 +16,7 @@ It speaks both **Hindi & English**, understands user tone, and replies in a fun,
 
 ---
 
-#🛠️ How It Works
+🛠️ How It Works
 
 BhaiBot analyzes the user's message for:
 
@@ -30,7 +30,7 @@ It then gives the best funny response — like a desi AI buddy would! 😆
 
  🐍 How to Run
 
-1. **Install required packages** (if not already):
+1. Install required packages** (if not already):
 
 ```bash
 pip install textblob
